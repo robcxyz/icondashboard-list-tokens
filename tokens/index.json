@@ -1,0 +1,24 @@
+{
+    "name": "ICONDashboard token list",
+    "version": "1.0",
+    "tokens": [
+        {
+            "id": "balanced",
+            "name": "Balanced",
+            "symbol": "BALN",
+            "contract": "cxf61cd5a45dc9f91c15aa65831a30a90d59a09619"
+        },
+        {
+            "id": "omm",
+            "name": "Omm",
+            "symbol": "OMM",
+            "contract": "cx1a29259a59f463a67bb2ef84398b30ca56b5830a"
+        },
+        {
+            "id": "craft",
+            "name": "Craft",
+            "symbol": "CFT",
+            "contract": "cx2e6d0fc0eca04965d06038c8406093337f085fcf"
+        }
+    ]
+}
