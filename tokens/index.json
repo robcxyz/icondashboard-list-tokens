@@ -19,6 +19,54 @@
             "name": "Craft",
             "symbol": "CFT",
             "contract": "cx2e6d0fc0eca04965d06038c8406093337f085fcf"
+        },
+        {
+            "id": "sicx",
+            "name": "Staked ICX",
+            "symbol": "sICX",
+            "contract": "cx2609b924e33ef00b648a409245c7ea394c467824"
+        },
+        {
+            "id": "bnusd",
+            "name": "Balanced Dollar",
+            "symbol": "bnUSD",
+            "contract": "cx88fd7df7ddff82f7cc735c871dc519838cb235bb"
+        },
+        {
+            "id": "balanced",
+            "name": "Balanced",
+            "symbol": "BALN",
+            "contract": "cxf61cd5a45dc9f91c15aa65831a30a90d59a09619"
+        },
+        {
+            "id": "crown",
+            "name": "CROWN",
+            "symbol": "CROWN",
+            "contract": "cx28b2ec885b50c8a93da752f2d0467a67127a70e8"
+        },
+        {
+            "id": "fin",
+            "name": "FIN Token",
+            "symbol": "FIN",
+            "contract": "cx785d504f44b5d2c8dac04c5a1ecd75f18ee57d16"
+        },
+        {
+            "id": "sarch",
+            "name": "Staked ARCH",
+            "symbol": "sARCH",
+            "contract": "cxfe94530ee0d159db3e5b7dcffbcd0dfb360075c0"
+        },
+        {
+            "id": "gbet",
+            "name": "GBET Token",
+            "symbol": "GBET",
+            "contract": "cx6139a27c15f1653471ffba0b4b88dc15de7e3267"
+        },
+        {
+            "id": "blobble",
+            "name": "Blobble STake Token",
+            "symbol": "BST",
+            "contract": "cxf14dea1cff7ceb29a46e6d04533a08f84441e41d"
         }
     ]
 }
